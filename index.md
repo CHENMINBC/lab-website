@@ -2,18 +2,18 @@
 title: Home
 ---
 
-# 行为生态与生物保护实验室 Lab of Behavior & Conservation
+# 行为生态与生物保护实验室    Lab of Behavior & Conservation
 
 {% capture logo_1 %}
 
-{% include figure.html image="images/ecnu-logo.png" height="150px" %}
+{% include figure.html image="images/ecnu-logo.png" height="200px" %}
 
 {% endcapture %}
 
 
 {% capture logo_2 %}
 
-{% include figure.html image="images/mclab.png" height="150px" %}
+{% include figure.html image="images/mclab.png" height="200px" %}
 
 {% endcapture %}
 

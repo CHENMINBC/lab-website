@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %} Team
 
 ## Current Lab Members
 
@@ -14,6 +14,8 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 {% include list.html data="members" component="portrait" filter="role == 'msc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+
+{% include section.html %}
 
 ## Alumni
 
