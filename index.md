@@ -1,23 +1,35 @@
 # Lab of Behavior & Conservation
 # 行为生态与保护生物学实验室
 
-<div class="lab-logo-row">
-  
-  <img
-    src="{{ 'images/ecnu-logo.png' | relative_url }}"
-    alt="School logo"
-    class="school-logo"
-  >
+{% capture school_logo %}
 
-  <img
-      src="{{ 'images/mclab.png' | relative_url }}"
-      alt="Lab of Behavior and Conservation logo"
-      class="lab-logo"
-    >
-    
-</div>
+{%
+  include figure.html
+  image="images/ecnu-logo.png"
+  height="110px"
+%}
+
+{% endcapture %}
+
+{% capture lab_logo %}
+
+{%
+  include figure.html
+  image="images/mclab.png"
+  height="110px"
+%}
+
+{% endcapture %}
+
+{%
+  include cols.html
+  col1=school_logo
+  col2=lab_logo
+%}
+
 
 {% include section.html %}
+
 
 ## Highlights
 
@@ -36,13 +48,15 @@ Recent publications from the Lab.
 
 {% endcapture %}
 
+
 {%
   include feature.html
-  image="images/publication.jpg"
+  image="images/photo.jpg"
   link="research"
   title="Publications"
   text=publication_text
 %}
+
 
 {% capture team_text %}
 
@@ -59,21 +73,12 @@ Lab members and alumni.
 
 {% endcapture %}
 
-<div class="reverse-feature">
-  <div class="reverse-feature-text">
-    <h3>
-      <a href="{{ 'team' | relative_url }}">Our Team</a>
-    </h3>
 
-    {{ team_text }}
-  </div>
-
-  <div class="reverse-feature-image">
-    <a href="{{ 'team' | relative_url }}">
-      <img
-        src="{{ 'images/team.jpg' | relative_url }}"
-        alt="Members of the Lab of Behavior and Conservation"
-      >
-    </a>
-  </div>
-</div>
+{%
+  include feature.html
+  image="images/team.jpg"
+  link="team"
+  title="Our Team"
+  text=team_text
+  flip=true
+%}
