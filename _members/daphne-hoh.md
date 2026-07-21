@@ -1,5 +1,5 @@
 ---
-name: 何芷蔚 Daphne Z Hoh
+name: 何芷蔚 Daphne Z HOH
 image: images/daphnehoh.jpg
 role: postdoc
 aliases:

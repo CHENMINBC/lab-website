@@ -5,7 +5,7 @@ role: alumni
 aliases:
   - 李家雪
   - Jia Xue LI
-group: alum
+group: MSc
 links:
   email: 15036016903@163.com
 ---

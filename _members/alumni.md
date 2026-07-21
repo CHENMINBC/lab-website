@@ -5,7 +5,6 @@ role: alumni
 aliases:
   - xx
   - xxx
-group: alum
 links:
   email: xxx@bio.ecnu.edu.cn
 ---
