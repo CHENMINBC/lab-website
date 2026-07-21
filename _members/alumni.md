@@ -1,14 +1,18 @@
 ---
-name: 陈珉 Min CHEN
-image: images/chenmin.jpg
-role: pi
+name: 毕业生
+image: images/photo.jpg
+role: alumni
 aliases:
-  - 陈珉
-  - Min Chen
+  - xx
+  - xxx
+group: alum
 links:
-  email: mchen@bio.ecnu.edu.cn
-  orcid: 0000-0003-1582-4902
+  email: xxx@bio.ecnu.edu.cn
 ---
+
+**曾任实验室身份 Previous Lab Role:**
+PhD
+<br>
 
 **专长 Expertise:**
 - Behavioural ecology
