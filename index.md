@@ -1,22 +1,38 @@
-
 # Lab of Behavior & Conservation
 # 行为生态与生物保护实验室
 
-{% include figure.html image="images/ecnu-logo.png"%}
-{% include figure.html image="images/mclab.png"%}
+
+{% capture logo_1 %}
+
+{% include figure.html image="images/ecnu-logo.png" %}
+
+{% endcapture %}
+
+
+{% capture logo_2 %}
+
+{% include figure.html image="images/mclab.png" %}
+
+{% endcapture %}
+
+
+{% include cols.html col1=logo_1 col2=logo_2 %}
+
 
 {% include section.html %}
 
+
 ## Highlights
 
-{% capture text %}
+
+{% capture research_text %}
 
 Our research
 
 {%
   include button.html
   link="research"
-  text="See our publication"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -24,17 +40,17 @@ Our research
 
 {% endcapture %}
 
+
 {%
   include feature.html
   image="images/photo.jpg"
   link="research"
   title="Our Research"
-  flip=true
-  style="bare"
-  text=text
+  text=research_text
 %}
 
-{% capture text %}
+
+{% capture team_text %}
 
 Lab members and alumni
 
@@ -49,10 +65,12 @@ Lab members and alumni
 
 {% endcapture %}
 
+
 {%
   include feature.html
   image="images/photo.jpg"
   link="team"
   title="Our Team"
-  text=text
+  text=team_text
+  flip=true
 %}
