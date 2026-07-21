@@ -1,9 +1,8 @@
 ---
 ---
 
-# CHENMINBC's Website
-
-An engaging 1-3 sentence description of your lab.
+# Lab of Behavior & Conservation
+# 行为生态与保护生物学实验室
 
 {% include section.html %}
 
@@ -31,21 +30,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Research"
   text=text
 %}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
 
 {%
   include feature.html
