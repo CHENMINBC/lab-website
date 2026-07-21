@@ -1,1 +1,1 @@
-Sitemap: https://chenminbc.github.io/lab-website/sitemap.xml
+Sitemap: https://chenminbc.github.io/sitemap.xml
