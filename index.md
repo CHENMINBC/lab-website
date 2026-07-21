@@ -24,7 +24,7 @@ title: Home
 
 {% capture research_text %}
 
-Our lab's research focuses on behavioural ecology and conservation biology of vertebrates
+Our lab's research focuses on behavioural ecology and conservation biology of vertebrates. 本实验室主要开展脊椎动物行为生态学与保护生物学研究。
 
 {%
   include button.html
@@ -49,7 +49,7 @@ Our lab's research focuses on behavioural ecology and conservation biology of ve
 
 {% capture team_text %}
 
-Our lab members and alumni
+Our lab members and alumni. 实验室成员及毕业生。
 
 {%
   include button.html

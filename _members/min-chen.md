@@ -11,8 +11,8 @@ links:
 ---
 
 **专长 Expertise:**
-- Behavioural ecology
-- Conservation biology
+  - Behavioural ecology
+  - Conservation biology
 <br>
 
 intro intro intro<br>
