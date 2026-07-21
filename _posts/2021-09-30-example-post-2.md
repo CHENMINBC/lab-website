@@ -1,5 +1,6 @@
 ---
 title: Example post 2
+image: images/photo.jpg
 author: jane-smith
 ---
 

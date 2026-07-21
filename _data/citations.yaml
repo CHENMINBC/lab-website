@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1016/j.patter.2026.101514
@@ -280,3 +281,1154 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+=======
+- id: doi:10.1016/j.biocon.2026.111926
+  title: Sea turtle bycatch patterns in small-scale fisheries of the East China Sea and South China Sea
+  authors:
+    - JX Li
+    - DZ Hoh
+    - D Nie
+    - M Chen
+  publisher: Biological Conservation
+  date: '2026'
+  link: https://doi.org/10.1016/j.biocon.2026.111926
+  image: https://www.sciencedirect.com/journal/biological-conservation
+  tags:
+    - Sea turtle
+    - Bycatch
+    - Small-scale fisheries
+
+- id: doi:10.1038/s41597-026-07286-0
+  title: A telomere-to-telomere genome assembly of Chinese water deer (Hydropotes inermis)
+  authors:
+    - H Wu
+    - H Zhao
+    - Q Chen
+    - M Chen
+    - Y Lu
+  publisher: Scientific Data
+  date: '2026'
+  link: https://doi.org/10.1038/s41597-026-07286-0
+  image: https://www.nature.com/sdata/
+  tags:
+    - Chinese water deer
+    - Genome assembly
+    - Genomics
+
+- id: doi:10.1007/s42991-025-00515-w
+  title: Impacts of sympatric mammals on reintroduced Chinese water deer (Hydropotes inermis) in a peri-urban fragmentation
+  authors:
+    - Q Chen
+    - B Bao
+    - S Bo
+    - D Nie
+    - S Shen
+    - M Chen
+  publisher: Mammalian Biology
+  date: '2025'
+  link: https://doi.org/10.1007/s42991-025-00515-w
+  image: images/journals/mammalian-biology.png
+  tags:
+    - Chinese water deer
+    - Reintroduction
+    - Sympatric mammals
+    - Urban ecology
+
+- id: doi:10.12375/ysdwxb.202503011
+  title: 海南东寨港国家级自然保护区 海陆蛙的空间分布格局及保护对策.
+  authors:
+    - 李华亮
+    - 张明军
+    - 张熙斌
+    - 李诗川
+    - 陈珉
+    - 颜文博
+    - 曾治高
+  publisher: Chinese Journal of Wildlife
+  date: '2025'
+  link: https://doi.org/10.12375/ysdwxb.202503011
+  image: images/journals/chinese-journal-of-wildlife.png
+  tags:
+    - Crab-eating frog
+    - Spatial distribution
+    - Mangrove wetland
+    - Conservation
+
+- title: 'A Remarkable Dispersal Event by a Water Deer: Insights into Long-Distance Water-travel Potential'
+  authors:
+    - M Chen
+    - J Zhang
+    - Q Chen
+  publisher: Deer Specialist Group Newsletter
+  date: '2025'
+  image: images/journals/deer-specialist-group-newsletter.png
+  tags:
+    - Water deer
+    - Dispersal
+    - Movement ecology
+    - Aquatic travel
+
+- id: doi:10.12375/ysdwxb.20250214
+  title: 海南东寨港红树林湿地 两栖动物多样性的空间分布特征.
+  authors:
+    - 李华亮
+    - 张熙斌
+    - 李诗川
+    - 谭荣
+    - 林雪云
+    - 冯尔辉
+    - 张明军
+    - 陈珉
+    - 曾治高
+  publisher: Chinese Journal of Wildlife
+  date: '2025'
+  link: https://doi.org/10.12375/ysdwxb.20250214
+  image: images/journals/chinese-journal-of-wildlife.png
+  tags:
+    - Amphibians
+    - Species diversity
+    - Mangrove wetland
+    - Spatial ecology
+
+- id: doi:10.1111/jwas.70010
+  title: Identification of genetic diversity of Bufo gargarizans and Pelophylax nigromaculatus in the three islands of Chongming
+    insights into aquaculture resources …
+  authors:
+    - Y Cui
+    - R Ding
+    - Y Ding
+    - Y Shi
+    - Z Su
+    - D Shen
+    - M Chen
+  publisher: Journal of the World Aquaculture Society
+  date: '2025'
+  link: https://doi.org/10.1111/jwas.70010
+  image: images/journals/journal-of-the-world-aquaculture-society.png
+  tags:
+    - Asiatic toad
+    - Black-spotted frog
+    - Genetic diversity
+    - Island populations
+
+- id: doi:10.1016/j.beproc.2025.105168
+  title: More complex anti-predator behaviors develop with age in Chinese water deer fawns
+  authors:
+    - X Chen
+    - Q Jiang
+    - Y Wang
+    - Q Chen
+    - H Tang
+    - M Chen
+  publisher: Behavioural Processes
+  date: '2025'
+  link: https://doi.org/10.1016/j.beproc.2025.105168
+  image: images/journals/behavioural-processes.png
+  tags:
+    - Chinese water deer
+    - Anti-predator behaviour
+
+- id: doi:10.1093/cz/zoae020
+  title: Male juvenile golden snub-nosed monkeys acting as the mountee to receive grooming in their same-sex mounts
+  authors:
+    - P Huang
+    - JA Teichroeb
+    - E Zhang
+    - M Chen
+  publisher: Current Zoology
+  date: '2025'
+  link: https://doi.org/10.1093/cz/zoae020
+  image: images/journals/current-zoology.png
+  tags:
+    - Golden snub-nosed monkey
+    - Same-sex mounting
+    - Grooming
+    - Social behaviour
+
+- id: doi:10.3724/ahr.2095-0357.2024.0061
+  title: 'Conservation Priorities for Lizard Biodiversity in the Qinghai-Xizang Plateau Under Climate Change: Current Status
+    and Future Strategies'
+  authors:
+    - T Liu
+    - X Zhao
+    - J Yang
+    - Y Cui
+    - M Chen
+    - Z Zeng
+  publisher: Asian Herpetological Research
+  date: '2025'
+  link: https://doi.org/10.3724/ahr.2095-0357.2024.0061
+  image: images/journals/asian-herpetological-research.png
+  tags:
+    - Lizards
+    - Climate change
+    - Conservation prioritization
+
+- title: Free-ranging dogs threaten reintroduced Chinese water deer
+  authors:
+    - H Tang
+    - Q Chen
+    - M Chen
+  publisher: Deer Specialist Group Newsletter
+  date: '2024'
+  image: images/journals/deer-specialist-group-newsletter.png
+  tags:
+    - Chinese water deer
+    - Free-ranging dogs
+    - Reintroduction
+
+- id: doi:10.3724/ahr.2095-0357.2024.0009
+  title: 'Tracking the Confiscated Green Sea Turtles in the South China Sea: Where Did They Come From? Where Will They Go?'
+  authors:
+    - M Chen
+    - T Huang
+    - D Nie
+    - L Lin
+    - F Chen
+    - J Wang
+    - J Yang
+    - J Zhang
+    - T Liu
+    - et al.
+  publisher: Asian Herpetological Research
+  date: '2024'
+  link: https://doi.org/10.3724/ahr.2095-0357.2024.0009
+  image: images/journals/asian-herpetological-research.png
+  tags:
+    - Green sea turtle
+    - Confiscation
+    - Population genetics
+    - Wildlife trade
+    - Conservation
+
+- id: doi:10.1080/03949370.2023.2178031
+  title: Mirror responses in African grey parrot (Psittacus erithacus) support the gradualist perspective on mirror self-recognition
+  authors:
+    - Y Lin
+    - E Pei
+    - Q Liu
+    - J Ma
+    - E Zhang
+    - J Zhao
+    - M Chen
+  publisher: Ethology Ecology & Evolution
+  date: '2023'
+  link: https://doi.org/10.1080/03949370.2023.2178031
+  image: images/journals/ethology-ecology-evolution.png
+  tags:
+    - African grey parrot
+    - Mirror self-recognition
+    - Cognition
+
+- id: doi:10.1002/ajp.23550
+  title: Examining postmounting grooming in male golden snub‐nosed monkeys to investigate the functions of same‐sex mounts
+  authors:
+    - P Huang
+    - G Fang
+    - JA Teichroeb
+    - E Zhang
+    - M Chen
+  publisher: American Journal of Primatology
+  date: '2023'
+  link: https://doi.org/10.1002/ajp.23550
+  image: images/journals/american-journal-of-primatology.png
+  tags:
+    - Golden snub-nosed monkey
+    - Same-sex mounting
+    - Grooming
+    - Social behaviour
+
+- id: doi:10.21203/rs.3.rs-3444134/v1
+  title: Influence of sub-urban highway underpasses on animals in Chongming Island, Shanghai
+  authors:
+    - Y Gan
+    - Z Qu
+    - P Wang
+    - D Nie
+    - M Chen
+  publisher: Research Square
+  date: '2023'
+  link: https://doi.org/10.21203/rs.3.rs-3444134/v1
+  image: images/journals/research-square.png
+  tags:
+    - Wildlife
+    - Highway underpasses
+    - Urban ecology
+    - Connectivity
+
+- id: doi:10.22201/fmvz.24486760e.2023.1067
+  title: Effect of pregnancy on some hematological and biochemical parameters in pregnant Chinese water deer (Hydropotes inermis)
+  authors:
+    - D Nie
+    - H Tang
+    - Y Lin
+    - J Liu
+    - J Gui
+    - N Zhao
+    - E Zhang
+    - M Chen
+  publisher: Veterinaria México OA
+  date: '2023'
+  link: https://doi.org/10.22201/fmvz.24486760e.2023.1067
+  image: images/journals/veterinaria-m-xico-oa.png
+  tags:
+    - Chinese water deer
+    - Pregnancy
+    - Haematology
+    - Serum biochemistry
+
+- id: doi:10.1016/j.beproc.2022.104688
+  title: Food handling shapes the laterality of paw use in the Chinese red panda (Ailurus styani)
+  authors:
+    - Y Lin
+    - Q Liu
+    - N Song
+    - E Zhang
+    - M Chen
+  publisher: Behavioural Processes
+  date: '2022'
+  link: https://doi.org/10.1016/j.beproc.2022.104688
+  image: images/journals/behavioural-processes.png
+  tags:
+    - Chinese red panda
+    - Paw preference
+    - Laterality
+    - Feeding behaviour
+
+- id: doi:10.3390/ani12111392
+  title: 'Northward range expansion of water deer in Northeast Asia: Direct evidence and management implications'
+  authors:
+    - Y Li
+    - JH Kim
+    - H Li
+    - Y Peng
+    - M Chen
+    - W Zhu
+    - P Pandey
+    - G Sedash
+    - T Wang
+    - et al.
+  publisher: Animals
+  date: '2022'
+  link: https://doi.org/10.3390/ani12111392
+  image: images/journals/animals.png
+  tags:
+    - Water deer
+    - Range expansion
+    - Northeast Asia
+    - Management
+
+- id: doi:10.3969/j.issn.1007-0109.2022.02.029
+  title: 崇明岛小型野生动物通道的利用研究
+  authors:
+    - 陈珉
+    - 璩泽东
+    - 王鹏
+    - 聂大义
+    - 黄通
+  publisher: 上海公路
+  date: '2022'
+  link: https://doi.org/10.3969/j.issn.1007-0109.2022.02.029
+  image: images/journals/shanghai-highways.png
+  tags:
+    - Wildlife
+    - Underpasses
+    - Road ecology
+    - Chongming Island
+
+- title: 城市化区域野生动物通道的适用性分析
+  authors:
+    - 蒋应红
+    - 陈珉
+    - 璩泽东
+    - 王鹏
+    - 聂大义
+    - 黄通
+  publisher: 中国市政工程
+  date: '2022'
+  image: images/journals/china-municipal-engineering.png
+  tags:
+    - Wildlife
+    - Underpasses
+    - Urban ecology
+    - Road ecology
+
+- id: doi:10.1016/j.zool.2021.125942
+  title: Mirror responses in the common hill myna (Gracula religiosa) and the African grey parrot (Psittacus erithacus)
+  authors:
+    - Y Lin
+    - J Ma
+    - J Zhao
+    - Q Liu
+    - E Pei
+    - E Zhang
+    - M Chen
+  publisher: Zoology
+  date: '2021'
+  link: https://doi.org/10.1016/j.zool.2021.125942
+  image: images/journals/zoology.png
+  tags:
+    - Common hill myna
+    - African grey parrot
+    - Mirror self-recognition
+    - Cognition
+
+- id: doi:10.1016/j.isci.2021.102517
+  title: Sea turtle demand in China threatens the survival of wild populations
+  authors:
+    - L Lin
+    - S Li
+    - M Chen
+    - JF Parham
+    - H Shi
+  publisher: iScience
+  date: '2021'
+  link: https://doi.org/10.1016/j.isci.2021.102517
+  image: images/journals/iscience.png
+  tags:
+    - Sea turtle
+    - Wildlife trade
+    - Demand
+    - Conservation
+
+- title: 镜子测试与具有镜像自我认知的动物研究概述
+  authors:
+    - 林伊
+    - 钟晨威
+    - 张恩迪
+    - 陈珉
+  publisher: 生物学教学
+  date: '2021'
+  image: images/journals/biology-teaching-cn.png
+  tags:
+    - Animals
+    - Mirror self-recognition
+    - Cognition
+    - Review
+
+- id: doi:10.1093/zoolinnean/zlaa076
+  title: Conservation genetics of native and European-introduced Chinese water deer (Hydropotes inermis)
+  authors:
+    - R Putman
+    - N Dunn
+    - E Zhang
+    - M Chen
+    - C Miquel
+    - V Savolainen
+  publisher: Zoological Journal of the Linnean Society
+  date: '2021'
+  link: https://doi.org/10.1093/zoolinnean/zlaa076
+  image: images/journals/zoological-journal-of-the-linnean-society.png
+  tags:
+    - Chinese water deer
+    - Conservation genetics
+    - Introduced populations
+    - Mitochondrial DNA
+
+- id: doi:10.1186/s12917-020-02601-2
+  title: 'Haematological and serum biochemical reference values in Chinese water deer (Hydropotes inermis): a preliminary
+    study'
+  authors:
+    - D Nie
+    - J Gui
+    - N Zhao
+    - Y Lin
+    - H Tang
+    - F Cai
+    - G Shen
+    - J Liu
+    - E Zhang
+    - et al.
+  publisher: BMC Veterinary Research
+  date: '2020'
+  link: https://doi.org/10.1186/s12917-020-02601-2
+  image: images/journals/bmc-veterinary-research.png
+  tags:
+    - Chinese water deer
+    - Haematology
+    - Serum biochemistry
+    - Veterinary conservation
+
+- id: doi:10.1016/j.jclepro.2020.121547
+  title: How to strive for balance of coastal wind energy development with waterbird conservation in the important coastal
+    wetlands, a case study in the Chongming Islands of East China
+  authors:
+    - B Li
+    - X Yuan
+    - M Chen
+    - S Bo
+    - L Xia
+    - YU Guo
+    - S Zhao
+    - Z Ma
+    - T Wang
+  publisher: Journal of Cleaner Production
+  date: '2020'
+  link: https://doi.org/10.1016/j.jclepro.2020.121547
+  image: images/journals/journal-of-cleaner-production.png
+  tags:
+    - Waterbirds
+    - Wind energy
+    - Coastal wetlands
+    - Conservation planning
+
+- id: doi:10.1007/s10329-018-0666-7
+  title: The influence of a demographic change on social relationships among male golden snub-nosed monkeys (Rhinopithecus
+    roxellana)
+  authors:
+    - P Huang
+    - E Zhang
+    - M Chen
+  publisher: Primates
+  date: '2018'
+  link: https://doi.org/10.1007/s10329-018-0666-7
+  image: images/journals/primates.png
+  tags:
+    - Golden snub-nosed monkey
+    - Social relationships
+    - Demography
+    - Primate behaviour
+
+- title: 动物认识镜子里的自己吗?
+  authors:
+    - 林伊
+    - 陈珉
+  publisher: 大自然
+  date: '2018'
+  image: images/journals/nature-magazine-cn.png
+  tags:
+    - Animals
+    - Mirror self-recognition
+    - Popular science
+
+- id: doi:10.1002/ajp.22636
+  title: Do same‐sex mounts function as dominance assertion in male golden snub‐nosed monkeys (Rhinopithecus roxellana)?
+  authors:
+    - P Huang
+    - X He
+    - E Zhang
+    - M Chen
+  publisher: American Journal of Primatology
+  date: '2017'
+  link: https://doi.org/10.1002/ajp.22636
+  image: images/journals/american-journal-of-primatology.png
+  tags:
+    - Golden snub-nosed monkey
+    - Same-sex mounting
+    - Dominance
+    - Social behaviour
+
+- title: 非洲灰鹦鹉镜子测试初步研究
+  authors:
+    - 林伊
+    - 陈珉
+  publisher: 第十三届全国野生动物生态与资源保护学术研讨会暨第六届中国西部动物学学术研讨会 …
+  date: '2017'
+  image: images/journals/wildlife-conservation-conference-13.png
+  tags:
+    - African grey parrot
+    - Mirror test
+    - Cognition
+
+- title: 上海崇明岛发现北方狭口蛙 (Kaloula borealis)
+  authors:
+    - 赵娜
+    - 石玉帛
+    - 魏文芝
+    - 韦旭
+    - 赵思雨
+    - 黄鹏真
+    - 王天厚
+    - 裴恩乐
+    - 袁晓
+    - et al.
+  publisher: Chinese Journal of Wildlife
+  date: '2017'
+  image: images/journals/chinese-journal-of-wildlife.png
+  tags:
+    - Northern narrow-mouthed frog
+    - New record
+    - Chongming Island
+    - Amphibian distribution
+
+- title: 圈养幼獐昼间行为时间分配
+  authors:
+    - 赵娜
+    - 刘超飞
+    - 陈珉
+  publisher: 第十三届全国野生动物生态与资源保护学术研讨会暨第六届中国西部动物学学术研讨会 …
+  date: '2017'
+  image: images/journals/wildlife-conservation-conference-13.png
+  tags:
+    - Chinese water deer
+    - Activity budget
+    - Captive behaviour
+    - Fawns
+
+- title: 偷渡者——褐家鼠和黑鼠
+  authors:
+    - 陈珉
+    - 钟宇
+  publisher: 大自然
+  date: '2017'
+  image: images/journals/nature-magazine-cn.png
+  tags:
+    - Brown rat
+    - Black rat
+    - Invasive species
+    - Popular science
+
+- title: 重引入獐在可控环境中的獐道功能初探
+  authors:
+    - 陈珉
+    - 陈怡芸
+  publisher: 第十三届全国野生动物生态与资源保护学术研讨会暨第六届中国西部动物学学术研讨会 …
+  date: '2017'
+  image: images/journals/wildlife-conservation-conference-13.png
+  tags:
+    - Chinese water deer
+    - Reintroduction
+    - Wildlife passage
+    - Controlled environment
+
+- id: doi:10.1071/AN14910
+  title: The efforts to re-establish the Chinese water deer population in Shanghai, China
+  authors:
+    - M Chen
+    - C Liu
+    - X He
+    - E Pei
+    - X Yuan
+    - E Zhang
+  publisher: Animal Production Science
+  date: '2016'
+  link: https://doi.org/10.1071/AN14910
+  image: images/journals/animal-production-science.png
+  tags:
+    - Chinese water deer
+    - Reintroduction
+    - Population restoration
+    - Shanghai
+
+- id: doi:10.1071/AN14858
+  title: Home range of reintroduced Chinese water deer in Nanhui East Shoal wildlife sanctuary of Shanghai, China
+  authors:
+    - X He
+    - M Chen
+    - E Zhang
+  publisher: Animal Production Science
+  date: '2016'
+  link: https://doi.org/10.1071/AN14858
+  image: images/journals/animal-production-science.png
+  tags:
+    - Chinese water deer
+    - Home range
+    - Reintroduction
+    - Radio telemetry
+
+- id: doi:10.16829/j.slxb.201601004
+  title: Habitat selection and movement range of re-introduced Chinese water deer after release in Shanghai Binjiang Forest
+    Park, China
+  authors:
+    - HE Xin
+    - PEI Enle
+    - Y Xiao
+    - CAI Feng
+    - S Guoping
+    - Z Endi
+    - XU Guilin
+    - C Min
+  publisher: Acta Theriologica Sinica
+  date: '2016'
+  link: https://doi.org/10.16829/j.slxb.201601004
+  image: images/journals/acta-theriologica-sinica.png
+  tags:
+    - Chinese water deer
+    - Habitat selection
+    - Movement range
+    - Reintroduction
+
+- id: doi:10.16829/j.slxb.201601004
+  title: 上海滨江森林公园重引入獐野放后的活动范围与栖息地选择
+  authors:
+    - 何鑫
+    - 裴恩乐
+    - 袁晓
+    - 蔡峰
+    - 沈国平
+    - 张恩迪
+    - 徐桂林
+    - 陈珉
+  publisher: Acta Theriologica Sinica
+  date: '2016'
+  link: https://doi.org/10.16829/j.slxb.201601004
+  image: images/journals/acta-theriologica-sinica.png
+  tags:
+    - Chinese water deer
+    - Habitat selection
+    - Movement range
+    - Reintroduction
+
+- title: 上海地区重引入獐野放后的活动规律
+  authors:
+    - 何鑫
+    - 裴恩乐
+    - 袁晓
+    - 徐桂林
+    - 沈国平
+    - 张恩迪
+    - 蔡锋
+    - 陈珉
+  publisher: 动物学杂志
+  date: '2016'
+  image: images/journals/chinese-journal-of-zoology-cn.png
+  tags:
+    - Chinese water deer
+    - Activity pattern
+    - Reintroduction
+    - Movement ecology
+
+- title: Chinese Water Deer (Hydropotesinermis) Reintroduction in Nanhui, Shanghai, China.
+  authors:
+    - M Chen
+    - A Pu
+    - X He
+    - E Zhang
+    - Y Ding
+    - T Wang
+    - Y Cai
+    - E Pei
+    - X Yuan
+  publisher: Pakistan Journal of Zoology
+  date: '2015'
+  image: images/journals/pakistan-journal-of-zoology.png
+  tags:
+    - Chinese water deer
+    - Reintroduction
+    - Survival
+    - Nanhui
+
+- id: doi:10.1016/j.bse.2015.04.007
+  title: Genetic structure and diversity of green sea turtle (Chelonia mydas) from South China Sea inferred by mtDNA control
+    region sequence
+  authors:
+    - WJ Yang
+    - YM Wang
+    - M Chen
+  publisher: Biochemical Systematics and Ecology
+  date: '2015'
+  link: https://doi.org/10.1016/j.bse.2015.04.007
+  image: images/journals/biochemical-systematics-and-ecology.png
+  tags:
+    - Green sea turtle
+    - Population genetics
+    - Mitochondrial DNA
+    - South China Sea
+
+- title: 菲菊头蝠不同地理种群回声定位声波差异及其影响因子
+  authors:
+    - 沈琪琦
+    - 刘奇
+    - 陈毅
+    - 赵娇
+    - 彭兴文
+    - 孙云霄
+    - 陈珉
+    - 张礼标
+  publisher: 动物学杂志
+  date: '2015'
+  image: images/journals/chinese-journal-of-zoology-cn.png
+  tags:
+    - Least horseshoe bat
+    - Echolocation
+    - Geographic variation
+    - Bioacoustics
+
+- title: 犬蝠夜栖息地及夜栖息巢特征的初步研究
+  authors:
+    - 刘奇
+    - 沈琪琦
+    - 黄继展
+    - 陈毅
+    - 赵娇
+    - 邵永刚
+    - 孙云霄
+    - 简汉彪
+    - 李志锐
+    - et al.
+  publisher: 兽类学报
+  date: '2014'
+  image: images/journals/acta-theriologica-sinica-cn.png
+  tags:
+    - Dog-faced fruit bat
+    - Roost ecology
+    - Night roosts
+    - Habitat
+
+- title: whale shark from China’s eastern coast
+  authors:
+    - Y Wang
+    - W Zhang
+    - M Chen
+  publisher: Advances in Earth and Environmental Sciences
+  date: '2014'
+  image: images/journals/advances-in-earth-and-environmental-sciences.png
+  tags:
+    - Whale shark
+    - Distribution record
+    - Eastern China
+
+- title: 褐家鼠挖掘活动对上海九段沙湿地植物群落与土壤水盐的影响
+  authors:
+    - 钟宇
+    - 刘奇
+    - 刘超飞
+    - 苏振兴
+    - 孙瑛
+    - 陈秀芝
+    - 郑麟
+    - 陈珉
+  publisher: 兽类学报
+  date: '2014'
+  image: images/journals/acta-theriologica-sinica-cn.png
+  tags:
+    - Brown rat
+    - Burrowing
+    - Wetland vegetation
+    - Soil salinity
+
+- title: 湖北省和江苏省发现尼泊尔鼠耳蝠
+  authors:
+    - 刘奇
+    - 陈珉
+    - 陈毅
+    - 沈琪琦
+    - 孙云霄
+    - 张礼标
+  publisher: 动物学杂志
+  date: '2014'
+  image: images/journals/chinese-journal-of-zoology-cn.png
+  tags:
+    - Nepal myotis
+    - New record
+    - Bat distribution
+    - China
+
+- title: 长江口九段沙湿地褐家鼠的 “建房” 智慧
+  authors:
+    - 钟宇
+    - 陈珉
+    - 孙瑛
+    - 陈秀芝
+    - 郑麟
+  publisher: 大自然
+  date: '2014'
+  image: images/journals/nature-magazine-cn.png
+  tags:
+    - Brown rat
+    - Burrowing behaviour
+    - Wetland ecology
+    - Popular science
+
+- id: doi:10.25225/fozo.v62.i2.a7.2013
+  title: Molecular phylogeny and taxonomic status of the red goral by cyt b gene analyses
+  authors:
+    - Z Xiong
+    - M Chen
+    - E Zhang
+    - M Huang
+  publisher: Folia Zoologica
+  date: '2013'
+  link: https://doi.org/10.25225/fozo.v62.i2.a7.2013
+  image: images/journals/folia-zoologica.png
+  tags:
+    - Red goral
+    - Molecular phylogeny
+    - Taxonomy
+    - Cytochrome b
+
+- title: 圈养獐春夏季昼间行为时间分配及活动节律
+  authors:
+    - 马飞雁
+    - 余晓俊
+    - 陈珉
+    - 刘超飞
+    - 张志明
+    - 叶建华
+  publisher: Acta Theriologica Sinica
+  date: '2013'
+  image: images/journals/acta-theriologica-sinica.png
+  tags:
+    - Chinese water deer
+    - Activity budget
+    - Circadian rhythm
+    - Captive behaviour
+
+- title: Diurnal time budgets and activity rhythm of captive Chinese water deer (Hydropotes inermis) in spring and summer
+  authors:
+    - F Ma
+    - X Yu
+    - M Chen
+    - C Liu
+    - Z Zhang
+    - J Ye
+  publisher: Acta Theriologica Sinica
+  date: '2013'
+  image: images/journals/acta-theriologica-sinica.png
+  tags:
+    - Chinese water deer
+    - Activity budget
+    - Circadian rhythm
+    - Captive behaviour
+
+- title: 圈养雄獐领域行为和粪便睾酮水平变化的关系
+  authors:
+    - 余晓俊
+    - 陈珉
+    - 张恩迪
+    - 张志明
+    - 叶建华
+    - 裴恩乐
+    - 袁晓
+  publisher: Chinese Journal of Zoology
+  date: '2013'
+  image: images/journals/chinese-journal-of-zoology.png
+  tags:
+    - Chinese water deer
+    - Territorial behaviour
+    - Testosterone
+    - Captive behaviour
+
+- title: 长江口九段沙湿地的 “水老鼠”
+  authors:
+    - 钟宇
+    - 陈珉
+    - 孙瑛
+    - 郑麟
+    - 陈秀芝
+  publisher: 大自然
+  date: '2013'
+  image: images/journals/nature-magazine-cn.png
+  tags:
+    - Brown rat
+    - Wetland ecology
+    - Popular science
+
+- title: 獐的警戒行为模式及逃跑起始距离的适应性变化
+  authors:
+    - 田鑫鑫
+    - 陈珉
+    - 王会
+    - 裴恩乐
+    - 袁晓
+    - 沈国平
+    - 蔡锋
+    - 徐桂林
+  publisher: Chinese Journal of Zoology
+  date: '2012'
+  image: images/journals/chinese-journal-of-zoology.png
+  tags:
+    - Chinese water deer
+    - Vigilance
+    - Flight initiation distance
+    - Anti-predator behaviour
+
+- title: 找回上海的 “精灵”——獐
+  authors:
+    - 陈珉
+  publisher: 园林
+  date: '2012'
+  image: images/journals/garden-landscape-cn.png
+  tags:
+    - Chinese water deer
+    - Reintroduction
+    - Conservation outreach
+    - Shanghai
+
+- title: 獐的警戒行为谱特征研究
+  authors:
+    - 田鑫鑫
+    - 陈珉
+    - 张恩迪
+  publisher: 第七届全国野生动物生态与资源保护学术研讨会论文摘要集
+  date: '2011'
+  image: images/journals/wildlife-conservation-conference-7.png
+  tags:
+    - Chinese water deer
+    - Vigilance
+    - Behavioural repertoire
+
+- title: 上海南汇东滩野生动物禁猎区野放獐的家域初步研究
+  authors:
+    - 何鑫
+    - 陈珉
+    - 张恩迪
+  publisher: 第七届全国野生动物生态与资源保护学术研讨会论文摘要集
+  date: '2011'
+  image: images/journals/wildlife-conservation-conference-7.png
+  tags:
+    - Chinese water deer
+    - Home range
+    - Reintroduction
+    - Nanhui
+
+- id: doi:10.1080/21513732.2010.509630
+  title: 'Attitudes towards wild animal conservation: A comparative study of the Yi and Mosuo in China'
+  authors:
+    - N Yang
+    - E Zhang
+    - M Chen
+  publisher: International Journal of Biodiversity Science, Ecosystem Services & Management
+  date: '2010'
+  link: https://doi.org/10.1080/21513732.2010.509630
+  image: images/journals/international-journal-of-biodiversity-science-ecosystem-services-management.png
+  tags:
+    - Wildlife
+    - Conservation attitudes
+    - Ethnobiology
+    - Yi people
+    - Mosuo people
+
+- title: Activity rhythms of captive white-headed langur in spring
+  authors:
+    - P Yanyan
+    - C Min
+    - W Aishan
+    - YAO Jianzhuang
+    - Z Endi
+  publisher: Acta Theriologica Sinica
+  date: '2010'
+  image: images/journals/acta-theriologica-sinica.png
+  tags:
+    - White-headed langur
+    - Activity rhythm
+    - Captive behaviour
+
+- title: 圈养白头叶猴春季昼夜活动节律
+  authors:
+    - 彭燕燕
+    - 陈珉
+    - 王爱善
+    - 姚建庄
+    - 张恩迪
+  publisher: Acta Theriologica Sinica
+  date: '2010'
+  image: images/journals/acta-theriologica-sinica.png
+  tags:
+    - White-headed langur
+    - Activity rhythm
+    - Captive behaviour
+
+- title: 江苏省盐城滨海湿地獐的春季种群数量与分布
+  authors:
+    - 陈珉
+    - 张恩迪
+    - 杨乃乙
+    - 彭燕燕
+    - 苏铁
+    - 滕丽微
+    - 马飞雁
+  publisher: 湿地科学
+  date: '2009'
+  image: images/journals/wetland-science-cn.png
+  tags:
+    - Chinese water deer
+    - Population abundance
+    - Coastal wetland
+    - Yancheng
+
+- id: doi:10.1007/s10592-007-9469-x
+  title: Identification of black muntjac (Muntiacus crinifrons) in Tibet, China, by cytochrome b analysis
+  authors:
+    - M Chen
+    - G Guo
+    - P Wu
+    - E Zhang
+  publisher: Conservation Genetics
+  date: '2008'
+  link: https://doi.org/10.1007/s10592-007-9469-x
+  image: images/journals/conservation-genetics.png
+  tags:
+    - Black muntjac
+    - Species identification
+    - Cytochrome b
+    - Tibet
+
+- id: doi:10.3969/j.issn.1000-7083.2008.01.042
+  title: 獐在上海地区重引入的社会价值初探
+  authors:
+    - 苏铁
+    - 陈珉
+    - 张恩迪
+    - 张志明
+    - 叶建华
+  publisher: Sichuan Journal of Zoology
+  date: '2008'
+  link: https://doi.org/10.3969/j.issn.1000-7083.2008.01.042
+  image: images/journals/sichuan-journal-of-zoology.png
+  tags:
+    - Chinese water deer
+    - Reintroduction
+    - Social value
+    - Shanghai
+
+- title: 虎的保护遗传学研究进展
+  authors:
+    - 陈珉
+    - 张恩迪
+    - 李冰
+  publisher: Sichuan Journal of Zoology
+  date: '2007'
+  image: images/journals/sichuan-journal-of-zoology.png
+  tags:
+    - Tiger
+    - Conservation genetics
+    - Review
+
+- title: 獐不同组织材料 DNA 提取的有效方法
+  authors:
+    - 陈珉
+    - 张恩迪
+  publisher: Sichuan Journal of Zoology
+  date: '2006'
+  image: images/journals/sichuan-journal-of-zoology.png
+  tags:
+    - Chinese water deer
+    - DNA extraction
+    - Molecular methods
+
+- title: 不同种群獐的遗传多样性及保护对策研究
+  authors:
+    - 陈珉
+  publisher: East China Normal University
+  date: '2006'
+  image: images/journals/east-china-normal-university.png
+  tags:
+    - Chinese water deer
+    - Genetic diversity
+    - Conservation strategy
+    - Dissertation
+
+- title: Samples diversity in molecular study for wild animal
+  authors:
+    - C Min
+    - Z Endi
+  publisher: Sichuan Journal of Zoology
+  date: '2003'
+  image: images/journals/sichuan-journal-of-zoology.png
+  tags:
+    - Wildlife
+    - Molecular sampling
+    - Methods
+
+- title: 野生动物分子水平研究中的取样方法进展
+  authors:
+    - 陈珉
+    - 张恩迪
+  publisher: Sichuan Journal of Zoology
+  date: '2003'
+  image: images/journals/sichuan-journal-of-zoology.png
+  tags:
+    - Wildlife
+    - Molecular sampling
+>>>>>>> Stashed changes
