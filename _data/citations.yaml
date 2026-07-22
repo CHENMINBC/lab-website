@@ -16,22 +16,6 @@
     - Climate change
     - Predation
 
-- id: doi:10.1016/j.biocon.2026.111926
-  title: Sea turtle bycatch patterns in small-scale fisheries of the East China Sea and South China Sea
-  authors:
-    - JX Li
-    - DZ Hoh
-    - D Nie
-    - M Chen
-  publisher: Biological Conservation
-  date: '2026'
-  link: https://doi.org/10.1016/j.biocon.2026.111926
-  image: https://www.sciencedirect.com/journal/biological-conservation
-  tags:
-    - Sea turtle
-    - Bycatch
-    - Small-scale fisheries
-
 - id: doi:10.1038/s41597-026-07286-0
   title: A telomere-to-telomere genome assembly of Chinese water deer (Hydropotes inermis)
   authors:
@@ -48,6 +32,22 @@
     - Chinese water deer
     - Genome assembly
     - Genomics
+
+- id: doi:10.1016/j.biocon.2026.111926
+  title: Sea turtle bycatch patterns in small-scale fisheries of the East China Sea and South China Sea
+  authors:
+    - JX Li
+    - DZ Hoh
+    - D Nie
+    - M Chen
+  publisher: Biological Conservation
+  date: '2026'
+  link: https://doi.org/10.1016/j.biocon.2026.111926
+  image: https://www.sciencedirect.com/journal/biological-conservation
+  tags:
+    - Sea turtle
+    - Bycatch
+    - Small-scale fisheries
 
 - id: doi:10.1007/s42991-025-00515-w
   title: Impacts of sympatric mammals on reintroduced Chinese water deer (Hydropotes inermis) in a peri-urban fragmentation

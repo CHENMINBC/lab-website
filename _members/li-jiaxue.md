@@ -15,7 +15,7 @@ links:
 Undergraduate, MSc<br>
 
 **专长 Expertise:**<br>
-Behavioural ecology<br>
+Behavioural Ecology<br>
 
 **个人简介 Biography:**<br>
 
