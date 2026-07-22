@@ -14,12 +14,10 @@
 {% for year in years %}
   {% assign data = year.items %}
 
-  {% if years.size > 1 %}
+{% if years.size > 1 %}
 ### {{ year.name }}
 {: #{{ year.name }} }
-
-    {% assign data = data | sort: "date" | reverse %}
-  {% endif %}
+{% endif %}
 
   {% for d in data %}
     {% assign style = d.style | default: include.style %}

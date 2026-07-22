@@ -100,7 +100,6 @@
     - Water deer
     - Dispersal
     - Movement ecology
-    - Aquatic travel
 
 - id: doi:10.12375/ysdwxb.20250214
   title: 海南东寨港红树林湿地 两栖动物多样性的空间分布特征.
@@ -160,7 +159,7 @@
   image: images/journals/behavioural-processes.png
   tags:
     - Chinese water deer
-    - Anti-predator behaviour
+    - Behaviour
 
 - id: doi:10.1093/cz/zoae020
   title: Male juvenile golden snub-nosed monkeys acting as the mountee to receive grooming in their same-sex mounts
@@ -177,7 +176,7 @@
     - Golden snub-nosed monkey
     - Same-sex mounting
     - Grooming
-    - Social behaviour
+    - Behaviour
 
 - id: doi:10.3724/ahr.2095-0357.2024.0061
   title: 'Conservation Priorities for Lizard Biodiversity in the Qinghai-Xizang Plateau Under Climate Change: Current Status
@@ -229,11 +228,10 @@
   link: https://doi.org/10.3724/ahr.2095-0357.2024.0009
   image: images/journals/asian-herpetological-research.png
   tags:
-    - Green sea turtle
+    - Sea turtle
     - Confiscation
     - Population genetics
     - Wildlife trade
-    - Conservation
 
 - id: doi:10.1080/03949370.2023.2178031
   title: Mirror responses in African grey parrot (Psittacus erithacus) support the gradualist perspective on mirror self-recognition
@@ -270,7 +268,7 @@
     - Golden snub-nosed monkey
     - Same-sex mounting
     - Grooming
-    - Social behaviour
+    - Behaviour
 
 - id: doi:10.21203/rs.3.rs-3444134/v1
   title: Influence of sub-urban highway underpasses on animals in Chongming Island, Shanghai
@@ -327,7 +325,7 @@
     - Chinese red panda
     - Paw preference
     - Laterality
-    - Feeding behaviour
+    - Behaviour
 
 - id: doi:10.3390/ani12111392
   title: 'Northward range expansion of water deer in Northeast Asia: Direct evidence and management implications'
@@ -349,7 +347,6 @@
   tags:
     - Water deer
     - Range expansion
-    - Northeast Asia
     - Management
 
 - id: doi:10.3969/j.issn.1007-0109.2022.02.029
@@ -368,7 +365,6 @@
     - Wildlife
     - Underpasses
     - Road ecology
-    - Chongming Island
 
 - title: 城市化区域野生动物通道的适用性分析
   authors:
@@ -521,7 +517,7 @@
     - Golden snub-nosed monkey
     - Social relationships
     - Demography
-    - Primate behaviour
+    - Behaviour
 
 - title: 动物认识镜子里的自己吗?
   authors:
@@ -550,7 +546,7 @@
     - Golden snub-nosed monkey
     - Same-sex mounting
     - Dominance
-    - Social behaviour
+    - Behaviour
 
 - title: 非洲灰鹦鹉镜子测试初步研究
   authors:
@@ -582,7 +578,6 @@
   tags:
     - Northern narrow-mouthed frog
     - New record
-    - Chongming Island
     - Amphibian distribution
 
 - title: 圈养幼獐昼间行为时间分配
@@ -596,7 +591,7 @@
   tags:
     - Chinese water deer
     - Activity budget
-    - Captive behaviour
+    - Behaviour
     - Fawns
 
 - title: 偷渡者——褐家鼠和黑鼠
@@ -642,7 +637,6 @@
     - Chinese water deer
     - Reintroduction
     - Population restoration
-    - Shanghai
 
 - id: doi:10.1071/AN14858
   title: Home range of reintroduced Chinese water deer in Nanhui East Shoal wildlife sanctuary of Shanghai, China
@@ -740,7 +734,6 @@
     - Chinese water deer
     - Reintroduction
     - Survival
-    - Nanhui
 
 - id: doi:10.1016/j.bse.2015.04.007
   title: Genetic structure and diversity of green sea turtle (Chelonia mydas) from South China Sea inferred by mtDNA control
@@ -754,10 +747,9 @@
   link: https://doi.org/10.1016/j.bse.2015.04.007
   image: images/journals/biochemical-systematics-and-ecology.png
   tags:
-    - Green sea turtle
+    - Sea turtle
     - Population genetics
     - Mitochondrial DNA
-    - South China Sea
 
 - title: 菲菊头蝠不同地理种群回声定位声波差异及其影响因子
   authors:
@@ -810,7 +802,6 @@
   tags:
     - Whale shark
     - Distribution record
-    - Eastern China
 
 - title: 褐家鼠挖掘活动对上海九段沙湿地植物群落与土壤水盐的影响
   authors:
@@ -846,7 +837,6 @@
     - Nepal myotis
     - New record
     - Bat distribution
-    - China
 
 - title: 长江口九段沙湿地褐家鼠的 “建房” 智慧
   authors:
@@ -896,7 +886,7 @@
     - Chinese water deer
     - Activity budget
     - Circadian rhythm
-    - Captive behaviour
+    - Behaviour
 
 - title: Diurnal time budgets and activity rhythm of captive Chinese water deer (Hydropotes inermis) in spring and summer
   authors:
@@ -913,7 +903,7 @@
     - Chinese water deer
     - Activity budget
     - Circadian rhythm
-    - Captive behaviour
+    - Behaviour
 
 - title: 圈养雄獐领域行为和粪便睾酮水平变化的关系
   authors:
@@ -931,7 +921,7 @@
     - Chinese water deer
     - Territorial behaviour
     - Testosterone
-    - Captive behaviour
+    - Behaviour
 
 - title: 长江口九段沙湿地的 “水老鼠”
   authors:
@@ -965,7 +955,7 @@
     - Chinese water deer
     - Vigilance
     - Flight initiation distance
-    - Anti-predator behaviour
+    - Behaviour
 
 - title: 找回上海的 “精灵”——獐
   authors:
@@ -977,7 +967,6 @@
     - Chinese water deer
     - Reintroduction
     - Conservation outreach
-    - Shanghai
 
 - title: 獐的警戒行为谱特征研究
   authors:
@@ -990,7 +979,7 @@
   tags:
     - Chinese water deer
     - Vigilance
-    - Behavioural repertoire
+    - Behaviour
 
 - title: 上海南汇东滩野生动物禁猎区野放獐的家域初步研究
   authors:
@@ -1004,7 +993,6 @@
     - Chinese water deer
     - Home range
     - Reintroduction
-    - Nanhui
 
 - id: doi:10.1080/21513732.2010.509630
   title: 'Attitudes towards wild animal conservation: A comparative study of the Yi and Mosuo in China'
@@ -1020,8 +1008,6 @@
     - Wildlife
     - Conservation attitudes
     - Ethnobiology
-    - Yi people
-    - Mosuo people
 
 - title: Activity rhythms of captive white-headed langur in spring
   authors:
@@ -1036,7 +1022,7 @@
   tags:
     - White-headed langur
     - Activity rhythm
-    - Captive behaviour
+    - Behaviour
 
 - title: 圈养白头叶猴春季昼夜活动节律
   authors:
@@ -1051,7 +1037,7 @@
   tags:
     - White-headed langur
     - Activity rhythm
-    - Captive behaviour
+    - Behaviour
 
 - title: 江苏省盐城滨海湿地獐的春季种群数量与分布
   authors:
@@ -1069,7 +1055,6 @@
     - Chinese water deer
     - Population abundance
     - Coastal wetland
-    - Yancheng
 
 - id: doi:10.1007/s10592-007-9469-x
   title: Identification of black muntjac (Muntiacus crinifrons) in Tibet, China, by cytochrome b analysis
@@ -1086,7 +1071,6 @@
     - Black muntjac
     - Species identification
     - Cytochrome b
-    - Tibet
 
 - id: doi:10.3969/j.issn.1000-7083.2008.01.042
   title: 獐在上海地区重引入的社会价值初探
@@ -1104,7 +1088,6 @@
     - Chinese water deer
     - Reintroduction
     - Social value
-    - Shanghai
 
 - title: 虎的保护遗传学研究进展
   authors:
@@ -1153,7 +1136,6 @@
   tags:
     - Wildlife
     - Molecular sampling
-    - Methods
 
 - title: 野生动物分子水平研究中的取样方法进展
   authors:
