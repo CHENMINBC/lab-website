@@ -4,7 +4,7 @@ image: images/chenmin.jpg
 role: pi
 aliases:
   - 陈珉
-  - Min Chen
+  - M Chen
 links:
   email: mchen@bio.ecnu.edu.cn
   orcid: 0000-0003-1582-4902

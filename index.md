@@ -6,7 +6,7 @@ title: Home
 
 {% capture logo_1 %}
 
-{% include figure.html image="images/ecnu-logo.png" width="100%" %}
+{% include figure.html image="images/ecnu-logo.png" width="200%" %}
 
 {% endcapture %}
 

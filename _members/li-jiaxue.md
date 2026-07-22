@@ -4,8 +4,7 @@ image: images/photo.jpg
 role: alumni
 aliases:
   - 李家雪
-  - Jia Xue LI
-group: MSc
+  - JX Li
 links:
   email: 15036016903@163.com
 ---
@@ -17,6 +16,8 @@ Undergraduate, MSc<br>
 
 **专长 Expertise:**<br>
 Behavioural ecology<br>
+
+**个人简介 Biography:**<br>
 
 {% endcapture %}
 

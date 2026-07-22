@@ -4,7 +4,7 @@ image: images/daphnehoh.jpg
 role: postdoc
 aliases:
   - 何芷蔚
-  - Daphne
+  - DZ Hoh
 links:
   orcid: 0000-0002-7810-1034
   google-scholar: tBReTwcAAAAJ
@@ -16,6 +16,7 @@ links:
 Sea Turtle Ecology<br>
 Biodiversity Informatics<br>
 
+**个人简介 Biography:**<br>
 intro intro intro<br>
 about about about<br>
 intro intro intro<br>

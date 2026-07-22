@@ -10,22 +10,6 @@
 
 <div class="citation-container">
   <div class="citation">
-    {% if include.style == "rich" %}
-      <a
-        {% if citation.link %}
-          href="{{ citation.link | relative_url | uri_escape }}"
-        {% endif %}
-        class="citation-image"
-        aria-label="{{ citation.title | default: "citation link" | regex_strip }}"
-      >
-        <img
-          src="{{ citation.image | relative_url | uri_escape }}"
-          alt="{{ citation.title | default: "citation image" | regex_strip }}"
-          loading="lazy"
-          {% include fallback.html %}
-        >
-      </a>
-    {% endif %}
 
     <div class="citation-text">
       {% assign type = site.data.types[citation.type] %}
@@ -60,17 +44,21 @@
       </div>
 
       <div class="citation-details">
-        <span class="citation-publisher">
-          {{- citation.publisher | default: "[no publisher info]" -}}
-        </span>
-        &nbsp;·&nbsp;
-        <span class="citation-date">
-          {{- citation.date | default: "[no date info]" | date: "%Y" -}}
-        </span>
-        &nbsp;·&nbsp;
-        <span class="citation-id">
-          {{- citation.id | default: "[no id info]" -}}
-        </span>
+        {% if citation.publisher %}
+          <span class="citation-publisher">
+            {{- citation.publisher -}}
+          </span>
+        {% endif %}
+
+        {% if citation.publisher and citation.id %}
+          &nbsp;·&nbsp;
+        {% endif %}
+
+        {% if citation.id %}
+          <span class="citation-id">
+            {{- citation.id -}}
+          </span>
+        {% endif %}
       </div>
 
       {% if include.style == "rich" %}

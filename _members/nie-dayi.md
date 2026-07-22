@@ -4,7 +4,7 @@ image: images/photo.jpg
 role: phd
 aliases:
   - 聂大义
-  - Dayi NIE
+  - D Nie
 links:
   email: niedy14@lzu.edu.cn
 ---
@@ -15,6 +15,7 @@ links:
 Chinese Water Deer<br>
 Microbial Ecology<br>
 
+**个人简介 Biography:**<br>
 intro intro intro<br>
 about about about<br>
 intro intro intro<br>

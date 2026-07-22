@@ -4,7 +4,7 @@ image: images/wangboqiang.jpg
 role: phd
 aliases:
   - 王博强
-  - Bo
+  - BQ Wang
 links:
   email: xxx@stu.ecnu.edu.cn
   orcid: 0000
@@ -16,6 +16,7 @@ links:
 Genomics<br>
 Ecology<br>
 
+**个人简介 Biography:**<br>
 intro intro intro<br>
 about about about<br>
 intro intro intro<br>

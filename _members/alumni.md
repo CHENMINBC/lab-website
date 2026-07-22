@@ -9,18 +9,23 @@ links:
   email: xxx@bio.ecnu.edu.cn
 ---
 
-**曾任实验室身份 Previous Lab Role:**
-PhD
-<br>
+{% capture col1 %}
 
-**专长 Expertise:**
+**曾任实验室身份 Previous Lab Role:**<br>
+PhD<br>
+
+**专长 Expertise:**<br>
 Behavioural Ecology<br>
-Conservation Biology
-<br>
+Conservation Biology<br>
 
+**个人简介 Biography:**<br>
 intro intro intro<br>
-about about about
+about about about<br>
 intro intro intro<br>
-about about about
+about about about<br>
 intro intro intro<br>
-about about about
+about about about<br>
+
+{% endcapture %}
+
+{% include cols.html col1=col1 %}
