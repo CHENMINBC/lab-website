@@ -9,14 +9,19 @@ links:
   email: niedy14@lzu.edu.cn
 ---
 
-**专长 Expertise:**
+{% capture col1 %}
+
+**专长 Expertise:**<br>
 Chinese Water Deer<br>
-Microbial Ecology
-<br>
+Microbial Ecology<br>
 
 intro intro intro<br>
-about about about
+about about about<br>
 intro intro intro<br>
-about about about
+about about about<br>
 intro intro intro<br>
-about about about
+about about about<br>
+
+{% endcapture %}
+
+{% include cols.html col1=col1 %}

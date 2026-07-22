@@ -10,10 +10,14 @@ links:
   email: 15036016903@163.com
 ---
 
-**曾任实验室身份 Previous Lab Role:**
-Undergraduate, MSc
-<br>
+{% capture col1 %}
 
-**专长 Expertise:**
-Behavioural ecology
-<br>
+**曾任实验室身份 Previous Lab Role:**<br>
+Undergraduate, MSc<br>
+
+**专长 Expertise:**<br>
+Behavioural ecology<br>
+
+{% endcapture %}
+
+{% include cols.html col1=col1 %}

@@ -10,13 +10,18 @@ links:
   orcid: 0000
 ---
 
-**专长 Expertise:**
-Ecology
-<br>
+{% capture col1 %}
+
+**专长 Expertise:**<br>
+Ecology<br>
 
 intro intro intro<br>
-about about about
+about about about<br>
 intro intro intro<br>
-about about about
+about about about<br>
 intro intro intro<br>
-about about about
+about about about<br>
+
+{% endcapture %}
+
+{% include cols.html col1=col1 %}

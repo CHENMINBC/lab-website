@@ -1,3 +1,21 @@
+- id: doi:10.1111/ddi.70207
+  title: "Mapping Priority Havens: Interactive Effects of Climate Change and Predator Dynamics on Sea Turtle Nesting Patterns"
+  authors:
+    - T Liu
+    - QT Chen
+    - JY Yang
+    - YQ Cui
+    - M Chen
+  publisher: Diversity and Distributions
+  date: '2026'
+  link: https://doi.org/10.1111/ddi.70207
+  image: https://onlinelibrary.wiley.com/journal/14724642
+  tags:
+    - Sea turtle
+    - Nesting habitat
+    - Climate change
+    - Predation
+
 - id: doi:10.1016/j.biocon.2026.111926
   title: Sea turtle bycatch patterns in small-scale fisheries of the East China Sea and South China Sea
   authors:
